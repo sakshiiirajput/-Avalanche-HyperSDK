@@ -23,8 +23,7 @@ make this example easy to play with, the `tokenvm` also bundles a powerful CLI
 tool and serves RPC requests for trades out of an in-memory order book it
 maintains by syncing blocks.
 
-If you are interested in the intersection of exchanges and blockchains, it is
-definitely worth a read (the logic for filling orders is < 100 lines of code!).
+
 
 ## Status
 `tokenvm` is considered **ALPHA** software and is not safe to use in
